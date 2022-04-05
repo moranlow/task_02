@@ -1,6 +1,6 @@
 ## Amazing Hello World App
 
-https://img.shields.io/github/last-commit/moranlow/task_02?style=for-the-badge
+![https://img.shields.io/github/last-commit/moranlow/task_02?style=for-the-badge]
 
 1. Do not forget to use the virtual python env:
 
